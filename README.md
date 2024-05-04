@@ -1,5 +1,7 @@
+## This repository contains the code and documentation for the Data Science Programme offered by British Airways and Cognizant through Forage.
+
+
 # British-Airways Data Science Programme
-This repository contains the code and documentation for the Data Science Programme offered by British Airways.
 
 ### Task 1
 
@@ -13,9 +15,7 @@ This repository contains the code and documentation for the Data Science Program
 - Prepared a PowerPoint presentation to present insights and analysis derived from the classification model.
 
 
-# **Cognizant AI Programme**: 
-
-This repository serves as a portfolio of projects completed during the AI Engineer Cognizant AI program.
+# **Cognizant AI Programme**
 
    **Comprehensive Workflow**: The repository demonstrates proficiency in various aspects of the data science workflow, covering the following key areas:
 
